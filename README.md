@@ -12,7 +12,7 @@ The script automatically retrieves a list of categories, selects categories cont
 
 ## Project Structure
 ```
-NHL-Teams-Stats-Scraper/
+DummyJSON-Sneakers-Scraper/
 ├── src/ 
 │   └── main.py # main scraper script
 ├── output/ 
