@@ -38,7 +38,7 @@ python src/main.py
 ```
 
 ## Demo.gif
-![Demo_GIF](GIF/demo.gif)
+![Demo_GIF](https://github.com/Zhasulan-Agybay/DummyJSON-Sneakers-Scraper/blob/main/DummyJSON%20Sneakers%20Scraper/GIF/demo.gif)
 
 #### 👨💻 About This Project
 
